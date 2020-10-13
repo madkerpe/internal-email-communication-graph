@@ -7,5 +7,5 @@ statistics are provided to employees. A feedback system makes it possible to sha
 Additionally, outliers in the email behavior are detected and reported to the employee. All these features are also available on
 a higher level (e.g. departments) and are provided to managers.
 
-![](Screenschot_1.png)
-![](Screenschot_2.png)
+![](Screenshot_2.png)
+![](Screenshot_1.png)
