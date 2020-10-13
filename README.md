@@ -1,6 +1,6 @@
 # internal-email-communication-graph
 
-This is a part of Nabla, written as an independent Vue.js component using D3.js to visualise the graph.
+This is a part of Nabla, written as an independent Vue.js component using D3.js to visualise the graph and make it totally interactive.
 
 Nabla is a platform that monitors email behavior in a company. Using a limited amount of data (so that privacy is respected)
 statistics are provided to employees. A feedback system makes it possible to share these statistics with supervisors.
